@@ -5,12 +5,11 @@
   display: flex;
   justify-content: center;
   gap: 20px;
-}
-
-.phonebook-label {
-  display: block;
   margin-bottom: 20px;
 }
+
+/* .phonebook-label {
+} */
 
 .phonebook-label-text {
   display: block;
